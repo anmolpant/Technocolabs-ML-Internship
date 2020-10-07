@@ -6,8 +6,6 @@ import numpy as np
 # Loading the saved Model
 model = pickle.load(open("final_model.pkl", "rb"))
 
-
-
 def predict_default(features):
 
     features = np.array(features).astype(np.float64).reshape(1,-1)
