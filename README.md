@@ -41,10 +41,10 @@ Here, The model used is Logistic Regression as we have selected the model using 
 
 In App, the input parameters to be specified are :
 
-(Recency - months since the last donation)
-(Frequency - total number of donation)
-(Monetary - total blood donated in c.c.)
-(Time - months since the first donation) and the result be the Target i.e
+1. (Recency - months since the last donation)
+2. (Frequency - total number of donation)
+3. (Monetary - total blood donated in c.c.)
+4. (Time - months since the first donation) and the result is the Target i.e
 
 Target - (1 stands for donating blood; 0 stands for not donating blood).
 
