@@ -23,13 +23,14 @@ Under this project we were given a credit card dataset for 30000 customers, whic
 <b>Deployed Web Application Link:</b> https://predict-credit-card-default.herokuapp.com/
 
 ## Project 2 Web Application Demo
-![alt-text](link)
 
-![alt-text](link)
+![alt-text](https://github.com/anmolpant/Technocolabs-ML-Internship/blob/master/Mini%20Tasks/Mini%20Task%202/Screenshots/screenshot3.PNG)
 
-## Final Project
+![alt-text](https://github.com/anmolpant/Technocolabs-ML-Internship/blob/master/Mini%20Tasks/Mini%20Task%202/Screenshots/screenshot4.PNG)
 
-# Problem Statement - 
+# Final Project
+
+## Problem Statement - 
 
 Forecasting blood supply is a serious and recurrent problem for blood collection managers: in January 2019, "Nationwide, the Red Cross saw 27,000 fewer blood donations over the holidays than they see at other times of the year." Machine learning can be used to learn the patterns in the data to help to predict future blood donations and therefore save more lives.
 
@@ -50,11 +51,11 @@ Also, along with prediction, the prediction probability is also specified.
 
 <b>Deployed Web Application:</b> https://predict-blood-donation.herokuapp.com/ <br>
 
-
 ## Final Project Web Application Demo
-![alt-text](link)
 
-![alt-text](link)
+![alt-text](https://github.com/anmolpant/Technocolabs-ML-Internship/blob/master/Final%20Project/Screenshots/screenshot1.PNG)
+
+![alt-text](https://github.com/anmolpant/Technocolabs-ML-Internship/blob/master/Final%20Project/Screenshots/screenshot2.PNG)
 
 ## Contributing
 
